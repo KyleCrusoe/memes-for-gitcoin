@@ -1,7 +1,7 @@
 # memes-for-gitcoin
 Here are 2 memes I made and 3 memes I like.
 
-[I Made Meme](/Git-Meme3.png?raw=true)
+[I Made This Meme](/Git-Meme3.png?raw=true)
 
 [I Made This Meme](/Git-Meme4.png?raw=true)
 
